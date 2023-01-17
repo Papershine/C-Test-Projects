@@ -3,4 +3,4 @@ project(Test_Programs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Test_Programs main.cpp)
+add_executable(Test_Programs helloworld.cpp)
