@@ -1,3 +1,6 @@
 # ninja log v5
-0	271	6956357106704635	CMakeFiles/Test_Programs.dir/main.cpp.obj	c259eaf94427537f
 272	362	6956357107596930	Test_Programs.exe	821316da23317c14
+0	280	6956367639241883	CMakeFiles/Test_Programs.dir/helloworld.cpp.obj	1b43e52577396550
+4	292	6956367639344809	CMakeFiles/Test_Programs.dir/printinput.cpp.obj	825a47b78035855d
+3	119	6956367935414541	build.ninja	47220c3809244fef
+2	65	6956367936446445	Test_Programs.exe	f89f4e1e16798204
